@@ -1,3 +1,5 @@
+# Language School API
+
 To install - clone this repo or download zip, then from project root folder...
 ```
 docker-compose up -d
