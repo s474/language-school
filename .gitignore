@@ -1,1 +1,7 @@
-/nbproject
+.phpunit.result.cache
+
+# netbeans project files
+nbproject
+
+# composer vendor dir
+/vendor
