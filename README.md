@@ -11,6 +11,8 @@ docker exec language_school_webserver_1 composer install
 
 Then visit http://localhost:8080 and you should see 'Language School API' OpenAPI document.
 
+![Alt text](ls_screenshot.jpg?raw=true)
+
 To run tests...
 ```
 docker exec language_school_webserver_1 composer test
